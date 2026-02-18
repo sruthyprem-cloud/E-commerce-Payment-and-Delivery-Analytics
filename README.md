@@ -124,8 +124,9 @@ The study highlights that efficient payment processing and delivery systems sign
 10. Future Scope
 
 AI-based delivery prediction
-
 Customer satisfaction modeling
+Fraud detection in payments
+Advanced logistics optimization
 
 
 
@@ -134,14 +135,3 @@ Customer satisfaction modeling
 <img width="732" height="416" alt="image" src="https://github.com/user-attachments/assets/41a1065e-0fca-4c96-819d-187c96770ee8" />
 
 
-
-
-
-
-
-
-
-
-Fraud detection in payments
-
-Advanced logistics optimization

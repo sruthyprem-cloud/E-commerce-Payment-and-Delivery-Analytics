@@ -129,6 +129,11 @@ Customer satisfaction modeling
 
 
 
+<img width="713" height="423" alt="image" src="https://github.com/user-attachments/assets/d7a4f98c-f9a5-43d3-872d-9bdf68ca7ea8" />
+
+
+
+
 
 
 Fraud detection in payments

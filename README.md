@@ -1,10 +1,10 @@
 # E-commerce-Payment-and-Delivery-Analytics
-E-Commerce Payment and Delivery Analysis
-1. Introduction
+
+1. **Introduction**
 
 The rapid growth of e-commerce platforms has transformed how customers purchase goods and services. Efficient payment processing and reliable delivery systems are critical factors that influence customer satisfaction and business performance. This project analyzes payment behaviors and delivery efficiency in an e-commerce environment to identify trends, bottlenecks, and improvement opportunities.
 
-2. Objectives
+2. **Objectives**
 
 The primary objectives of this analysis are:
 
@@ -18,7 +18,7 @@ To study the relationship between payment mode and delivery success
 
 To provide recommendations for operational improvement
 
-3. Dataset Overview
+3.** Dataset Overview**
 
 The dataset contains transactional records of e-commerce orders, including:
 
@@ -36,7 +36,7 @@ Delivery status
 
 The dataset was cleaned to remove missing or duplicate entries to ensure accurate analysis.
 
-4. Methodology
+4. **Methodology**
 
 The analysis was conducted using structured data analysis techniques:
 
@@ -56,7 +56,7 @@ Excel / SQL / Python (or your tool — edit as needed)
 
 Data visualization dashboards
 
-5. Analysis & Findings
+5. **Analysis & Findings**
 5.1 Payment Analysis
 
 Digital payment methods dominate transactions
@@ -85,7 +85,7 @@ Higher-value orders prefer secure digital payments
 
 Repeat customers prefer faster payment options
 
-6. Key Insights
+6.** Key Insights**
 
 Digital payments improve operational efficiency
 
@@ -95,7 +95,7 @@ COD introduces logistical challenges
 
 Data-driven planning improves delivery success
 
-7. Recommendations
+7. **Recommendations**
 
 Based on the analysis:
 
@@ -109,7 +109,7 @@ Improve real-time delivery tracking
 
 Strengthen logistics partnerships
 
-8. Limitations
+8. **Limitations**
 
 Dataset may not represent all customer segments
 
@@ -117,15 +117,18 @@ External factors like weather/logistics not included
 
 Analysis assumes accurate system records
 
-9. Conclusion
+9. **Conclusion**
 
 The study highlights that efficient payment processing and delivery systems significantly influence customer satisfaction and operational performance in e-commerce. Promoting digital payments and optimizing delivery processes can improve business outcomes. Continuous monitoring and data-driven strategies are essential for long-term success.
 
-10. Future Scope
+10. **Future Scope**
 
 AI-based delivery prediction
+
 Customer satisfaction modeling
+
 Fraud detection in payments
+
 Advanced logistics optimization
 
 
@@ -133,6 +136,7 @@ Advanced logistics optimization
 <img width="713" height="423" alt="image" src="https://github.com/user-attachments/assets/d7a4f98c-f9a5-43d3-872d-9bdf68ca7ea8" />
 <img width="748" height="423" alt="image" src="https://github.com/user-attachments/assets/5b3e351c-c0ea-486b-85f9-0abe0c9978b0" />
 <img width="732" height="416" alt="image" src="https://github.com/user-attachments/assets/41a1065e-0fca-4c96-819d-187c96770ee8" />
+
 
 👨‍💻 Author
 

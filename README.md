@@ -130,6 +130,8 @@ Customer satisfaction modeling
 
 
 <img width="713" height="423" alt="image" src="https://github.com/user-attachments/assets/d7a4f98c-f9a5-43d3-872d-9bdf68ca7ea8" />
+<img width="748" height="423" alt="image" src="https://github.com/user-attachments/assets/5b3e351c-c0ea-486b-85f9-0abe0c9978b0" />
+
 
 
 
